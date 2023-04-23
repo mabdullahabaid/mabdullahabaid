@@ -5,7 +5,7 @@ My current skillset revolves around Go, JavaScript, SQL and AWS.
 
 I initially learned to code with C in 2017 and used some C++ after, but only got serious about a career in computer science in 2021. Learned JavaScript to enter the industry and have never looked back.
 
-<p align="left">You can learn more about me on my socials ⬇️</p>
+<p align="left">You can learn more about me on my socials.</p>
 
 ###
 
