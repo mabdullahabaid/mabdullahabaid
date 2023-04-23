@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey there, I am Abdullah.
 
-<!--
-**mabdullahabaid/mabdullahabaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Self-taught Software Engineer focused on Backend Engineering and Cloud Infrastructure.
+My current skillset revolves around Go, JavaScript, SQL and AWS.
 
-Here are some ideas to get you started:
+I initially learned to code with C in 2017 and used some C++ after, but only got serious about a career in computer science in 2021. Learned JavaScript to enter the industry and have never looked back.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">You can learn more about me on my socials ⬇️</p>
+
+###
+
+<div align="left">
+  <a href="https://twitter.com/mabdullahabaidd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mabdullahabaid/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
